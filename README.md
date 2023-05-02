@@ -1,6 +1,6 @@
 
 
-
+<p align="center"><img  src="https://qrangers.com/wp-content/uploads/2021/09/Banner-Introduction-to-3D-Animation.png"/> </p>
 
 <h1 align="center">Hi 👋, I'm Tasbiha Kausar</h1>
 <h3 align="center">A passionate Full Stack Developer from India</h3>
